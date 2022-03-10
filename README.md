@@ -1,5 +1,7 @@
 Olá! Eu sou o Fernando Rodrigues 👋😁
 
+Cursando Sistemas de Informação - Estácio
+
 - 🔀 Em processo de migração para Programação.
 - 🐍 Atualmente estou estudando sobre Python e Django.
 - 💻 Skills basicas em HTML5, CSS3, JavaScript, PHP e MySQL.
@@ -10,9 +12,9 @@ Olá! Eu sou o Fernando Rodrigues 👋😁
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fer_py" height="50" width="160" 
+  <img align="center" alt="Fer_py" height="40" width="145" 
        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Fer_dj" height="50" width="160" 
+  <img align="center" alt="Fer_dj" height="40" width="140" 
        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
   

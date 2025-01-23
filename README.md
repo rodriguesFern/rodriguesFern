@@ -1,4 +1,4 @@
-# Olá! Eu sou Fernando Rodrigues. 💻
+# Olá! Eu sou Fernando. 💻
 
 - 📚 Cursando Pós-Graduação em **Segurança da Informação**.
 - 📚 Bacharel em **Sistemas de Informação**.

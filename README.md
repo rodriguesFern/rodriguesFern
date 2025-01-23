@@ -1,9 +1,9 @@
 # Olá! Eu sou Fernando Rodrigues 😅👋
 
-- 📚 Cursando **Sistemas de Informação** - Estácio.
-- 🔀 Em processo de migração para Programação.
-- 🐍 Atualmente estou estudando sobre **Python** e **Django**.
-- 💻 Com habilidades básicas e familiarizado   nas liguagens: **HTML5**, **CSS3**, **JavaScript** e **MySQL**.
+- 📚 Cursando Pós-Graduação em **Segurança da Informação**.
+- 📚 Bacharel em **Sistemas de Informação**.
+- 🔀 Em constante aprendizado.
+- 💻 Atualmente estou estudando sobre Segurança e Redes.
 
 <div style="display: inline_block">
   
@@ -22,11 +22,5 @@
 <div style="display: inline_block">
   <img align="center" alt="Fer_py" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Fer_html" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer_css" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Fer_js" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
